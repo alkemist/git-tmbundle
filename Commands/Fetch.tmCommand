@@ -12,7 +12,7 @@ dispatch :controller =&gt; "remote", :action =&gt; "fetch"</string>
 	<key>input</key>
 	<string>selection</string>
 	<key>keyEquivalent</key>
-	<string>^G</string>
+	<string>^f</string>
 	<key>name</key>
 	<string>Fetch</string>
 	<key>output</key>

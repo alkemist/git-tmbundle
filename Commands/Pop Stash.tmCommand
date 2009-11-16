@@ -12,7 +12,7 @@ dispatch :controller =&gt; "stash", :action =&gt; "pop"</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>^G</string>
+	<string>^~p</string>
 	<key>name</key>
 	<string>Pop Stash (Apply then drop)</string>
 	<key>output</key>

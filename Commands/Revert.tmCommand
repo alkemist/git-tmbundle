@@ -28,7 +28,7 @@ end
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>^G</string>
+	<string>^e</string>
 	<key>name</key>
 	<string>Revert…</string>
 	<key>output</key>
